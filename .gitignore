@@ -1,3 +1,7 @@
 data/
+dataset/
 *.csv
 .ipynb_checkpoints/
+venv/
+cleaned_data/
+*.pyc
